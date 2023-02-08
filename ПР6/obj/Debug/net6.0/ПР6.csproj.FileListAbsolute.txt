@@ -1,0 +1,34 @@
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\ПР6\ПР6\bin\Debug\net6.0\ПР6.exe
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\ПР6\ПР6\bin\Debug\net6.0\ПР6.deps.json
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\ПР6\ПР6\bin\Debug\net6.0\ПР6.runtimeconfig.json
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\ПР6\ПР6\bin\Debug\net6.0\ПР6.dll
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\ПР6\ПР6\bin\Debug\net6.0\ПР6.pdb
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\ПР6\ПР6\obj\Debug\net6.0\ПР6.csproj.AssemblyReference.cache
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\ПР6\ПР6\obj\Debug\net6.0\ПР6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\ПР6\ПР6\obj\Debug\net6.0\ПР6.AssemblyInfoInputs.cache
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\ПР6\ПР6\obj\Debug\net6.0\ПР6.AssemblyInfo.cs
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\ПР6\ПР6\obj\Debug\net6.0\ПР6.csproj.CoreCompileInputs.cache
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\ПР6\ПР6\obj\Debug\net6.0\ПР6.dll
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\ПР6\ПР6\obj\Debug\net6.0\refint\ПР6.dll
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\ПР6\ПР6\obj\Debug\net6.0\ПР6.pdb
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\ПР6\ПР6\obj\Debug\net6.0\ПР6.genruntimeconfig.cache
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\ПР6\ПР6\obj\Debug\net6.0\ref\ПР6.dll
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\ПР6\ПР6\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\ПР6\ПР6\obj\Debug\net6.0\ПР6.csproj.CopyComplete
+D:\П50-4-21 (2 курс)\ОАиП Скорогудаева\Проекты\Converter\ПР6\bin\Debug\net6.0\ПР6.exe
+D:\П50-4-21 (2 курс)\ОАиП Скорогудаева\Проекты\Converter\ПР6\bin\Debug\net6.0\ПР6.deps.json
+D:\П50-4-21 (2 курс)\ОАиП Скорогудаева\Проекты\Converter\ПР6\bin\Debug\net6.0\ПР6.runtimeconfig.json
+D:\П50-4-21 (2 курс)\ОАиП Скорогудаева\Проекты\Converter\ПР6\bin\Debug\net6.0\ПР6.dll
+D:\П50-4-21 (2 курс)\ОАиП Скорогудаева\Проекты\Converter\ПР6\bin\Debug\net6.0\ПР6.pdb
+D:\П50-4-21 (2 курс)\ОАиП Скорогудаева\Проекты\Converter\ПР6\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\П50-4-21 (2 курс)\ОАиП Скорогудаева\Проекты\Converter\ПР6\obj\Debug\net6.0\ПР6.csproj.AssemblyReference.cache
+D:\П50-4-21 (2 курс)\ОАиП Скорогудаева\Проекты\Converter\ПР6\obj\Debug\net6.0\ПР6.GeneratedMSBuildEditorConfig.editorconfig
+D:\П50-4-21 (2 курс)\ОАиП Скорогудаева\Проекты\Converter\ПР6\obj\Debug\net6.0\ПР6.AssemblyInfoInputs.cache
+D:\П50-4-21 (2 курс)\ОАиП Скорогудаева\Проекты\Converter\ПР6\obj\Debug\net6.0\ПР6.AssemblyInfo.cs
+D:\П50-4-21 (2 курс)\ОАиП Скорогудаева\Проекты\Converter\ПР6\obj\Debug\net6.0\ПР6.csproj.CoreCompileInputs.cache
+D:\П50-4-21 (2 курс)\ОАиП Скорогудаева\Проекты\Converter\ПР6\obj\Debug\net6.0\ПР6.csproj.CopyComplete
+D:\П50-4-21 (2 курс)\ОАиП Скорогудаева\Проекты\Converter\ПР6\obj\Debug\net6.0\ПР6.dll
+D:\П50-4-21 (2 курс)\ОАиП Скорогудаева\Проекты\Converter\ПР6\obj\Debug\net6.0\refint\ПР6.dll
+D:\П50-4-21 (2 курс)\ОАиП Скорогудаева\Проекты\Converter\ПР6\obj\Debug\net6.0\ПР6.pdb
+D:\П50-4-21 (2 курс)\ОАиП Скорогудаева\Проекты\Converter\ПР6\obj\Debug\net6.0\ПР6.genruntimeconfig.cache
+D:\П50-4-21 (2 курс)\ОАиП Скорогудаева\Проекты\Converter\ПР6\obj\Debug\net6.0\ref\ПР6.dll
